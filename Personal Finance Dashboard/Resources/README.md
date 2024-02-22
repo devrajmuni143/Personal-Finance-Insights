@@ -18,6 +18,12 @@ Utilized Power BI to transform categorized data into a visual dashboard, facilit
 - Total income, expenses, and savings.
 - Percentage of income allocated to savings and expenses.
 - Snapshot of overall financial health.
+## Screenshots
+- Data Model
+![data model](https://github.com/devrajmuni143/Personal-Finance-Insights/assets/100869651/db19c914-1ad8-4bfa-8667-62d141b75934)
+- Dashboard
+![dashboard](https://github.com/devrajmuni143/Personal-Finance-Insights/assets/100869651/e8ae7376-062f-47f4-8489-d695c2796853)
+
 
 ## Big Insights
 - High spending is identified as a concern.
